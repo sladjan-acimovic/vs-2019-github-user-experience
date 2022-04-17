@@ -44,7 +44,7 @@ namespace vs_2019_github_user_experience
 
             app.UseRouting();
 
-            app.UseAuthorization();
+            //app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
